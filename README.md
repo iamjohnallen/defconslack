@@ -2,7 +2,8 @@ Welcome to defconslack.org
 
 # About
 
-We setup a slack instance to be shared among multiple defcon groups.  Each group has a channel #DC<AREA CODE>.   We use to do slack to IRC bridges but the folks on IRC were not happy because people could read what they're writing.   So we stopped all that madness.   Now you can come join us and sit idle in a room.
+A slack instance that is shared by multiple defcon groups.  Your channel is your group example: #DC919
+
 
 # Signup
 
