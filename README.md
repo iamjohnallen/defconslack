@@ -7,10 +7,10 @@ A slack instance that is shared by multiple defcon groups.  Your channel is your
 
 # Signup
 
-The self service signup is available by visiting https://join.dcg.chat
+The self service signup is available by visiting [https://join.dcg.chat](https://join.dcg.chat)
 
 # Login
 
-You can login by visiting https://dcg.chat
+You can login by visiting [https://dcg.chat](https://dcg.chat)
 
 
