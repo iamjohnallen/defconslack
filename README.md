@@ -16,6 +16,3 @@ visit [https://dcg.chat](https://dcg.chat)
 
 
 
-
-defconslack.org
-
